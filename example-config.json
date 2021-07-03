@@ -1,0 +1,19 @@
+{
+  "token": "TOKEN",
+  "prefix": "!",
+  "levelSpamTimeout": 30,
+  "levelSpamMessages": 5,
+  "levelSaveCycle": 5,
+  "xpPerMessage": 5,
+  "xpPerLevel": 20,
+  "category": {
+    "levels": {
+      "name": "Levels",
+      "weight": 100
+    },
+    "music": {
+      "name": "Music",
+      "weight": 90
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AshuGuptaGamer",
+  "license": "MIT",
+  "dependencies": {
+    "@abdevs/discord.js-utils": "^4.2.1",
+    "@abdevs/js-file-executor": "^1.0.1",
+    "@discordjs/opus": "^0.5.3",
+    "better-sqlite3": "^7.4.1",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^4.4.0",
+    "ytdl-core": "^4.8.3"
+  }
+}
